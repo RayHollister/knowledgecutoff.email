@@ -22,6 +22,11 @@ body {
   color: var(--ink);
 }
 
+a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
 .page-shell {
   min-height: 100vh;
 }
